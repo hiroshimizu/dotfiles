@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOR_FILES=(.vimrc )
+DOR_FILES=(.vimrc .bashrc .inputrc)
 
 for file in ${DOR_FILES[@]}
 do

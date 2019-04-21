@@ -39,6 +39,8 @@ colorscheme jellybeans
 "文字化けを起こさないようにする
 set encoding=utf-8
 set fileencodings=utf-8,iso-2022-jp,euc-jp,cp932,sjis
+set visualbell t_vb=
+set noerrorbells
 
 "---------------------------------------------------------------------------
 set visualbell
